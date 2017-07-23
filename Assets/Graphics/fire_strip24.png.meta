@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 9e4afa4d10f75744d85085ae29b296c6
+timeCreated: 1494516247
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_strip24_0
+    21300002: fire_strip24_1
+    21300004: fire_strip24_2
+    21300006: fire_strip24_3
+    21300008: fire_strip24_4
+    21300010: fire_strip24_5
+    21300012: fire_strip24_6
+    21300014: fire_strip24_7
+    21300016: fire_strip24_8
+    21300018: fire_strip24_9
+    21300020: fire_strip24_10
+    21300022: fire_strip24_11
+    21300024: fire_strip24_12
+    21300026: fire_strip24_13
+    21300028: fire_strip24_14
+    21300030: fire_strip24_15
+    21300032: fire_strip24_16
+    21300034: fire_strip24_17
+    21300036: fire_strip24_18
+    21300038: fire_strip24_19
+    21300040: fire_strip24_20
+    21300042: fire_strip24_21
+    21300044: fire_strip24_22
+    21300046: fire_strip24_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fire_strip24_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 139}
+        - {x: 102, y: 188}
+        - {x: -18, y: 188}
+        - {x: -30, y: 167}
+        - {x: -12, y: 130}
+        - {x: -8, y: 126}
+        - {x: -94, y: 89}
+        - {x: -145, y: 46}
+        - {x: -145, y: -41}
+        - {x: -129, y: -70}
+        - {x: -16, y: -124}
+        - {x: 65, y: -124}
+        - {x: 102, y: -85}
+        - {x: 102, y: -16}
+        - {x: 99, y: 25}
+        - {x: 90, y: 34}
+        - {x: 80, y: 41}
+      - - {x: -132, y: -57}
+        - {x: -129, y: -56}
+        - {x: -129, y: -53}
+        - {x: -132, y: -52}
+        - {x: -134, y: -54}
+      - - {x: -153, y: -30}
+        - {x: -150, y: -29}
+        - {x: -150, y: -26}
+        - {x: -153, y: -25}
+        - {x: -155, y: -27}
+      - - {x: -146, y: 32}
+        - {x: -143, y: 33}
+        - {x: -143, y: 36}
+        - {x: -146, y: 37}
+        - {x: -148, y: 35}
+    - name: fire_strip24_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 116}
+        - {x: 117, y: 152}
+        - {x: -49, y: 152}
+        - {x: -123, y: 84}
+        - {x: -145, y: 32}
+        - {x: -145, y: -27}
+        - {x: -144, y: -34}
+        - {x: -118, y: -64}
+        - {x: -17, y: -82}
+        - {x: 23, y: -147}
+        - {x: 60, y: -147}
+        - {x: 95, y: -89}
+        - {x: 102, y: -26}
+        - {x: 86, y: 23}
+      - - {x: -13, y: 188}
+        - {x: -23, y: 182}
+        - {x: -23, y: 170}
+        - {x: -17, y: 156}
+        - {x: 10, y: 156}
+        - {x: 16, y: 167}
+        - {x: 16, y: 185}
+        - {x: 13, y: 188}
+      - - {x: 76, y: 188}
+        - {x: 69, y: 186}
+        - {x: 69, y: 158}
+        - {x: 74, y: 157}
+        - {x: 106, y: 157}
+        - {x: 113, y: 158}
+        - {x: 117, y: 168}
+        - {x: 117, y: 183}
+        - {x: 113, y: 188}
+    - name: fire_strip24_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 160}
+        - {x: -44, y: 160}
+        - {x: -52, y: 145}
+        - {x: -60, y: 100}
+        - {x: -5, y: 85}
+        - {x: -5, y: 95}
+        - {x: 3, y: 104}
+        - {x: 3, y: 107}
+        - {x: 3, y: 105}
+        - {x: 1, y: 100}
+        - {x: -3, y: 81}
+        - {x: -104, y: 84}
+        - {x: -145, y: 35}
+        - {x: -145, y: -28}
+        - {x: -127, y: -70}
+        - {x: 23, y: -171}
+        - {x: 60, y: -171}
+        - {x: 89, y: -126}
+        - {x: 89, y: 78}
+        - {x: 77, y: 141}
+      - - {x: 62, y: 188}
+        - {x: 59, y: 183}
+        - {x: 59, y: 177}
+        - {x: 33, y: 136}
+        - {x: 33, y: 118}
+        - {x: 60, y: 91}
+        - {x: 127, y: 91}
+        - {x: 139, y: 95}
+        - {x: 139, y: 145}
+        - {x: 103, y: 188}
+      - - {x: -10, y: 166}
+        - {x: -5, y: 158}
+        - {x: 14, y: 158}
+        - {x: 22, y: 162}
+        - {x: 22, y: 180}
+        - {x: 21, y: 182}
+        - {x: 17, y: 186}
+        - {x: -5, y: 186}
+        - {x: -10, y: 184}
+    - name: fire_strip24_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 136}
+        - {x: 2, y: 89}
+        - {x: 6, y: 74}
+        - {x: 10, y: 66}
+        - {x: 9, y: 68}
+        - {x: 8, y: 71}
+        - {x: -4, y: 76}
+        - {x: -58, y: 82}
+        - {x: -114, y: 71}
+        - {x: -145, y: 35}
+        - {x: -145, y: -27}
+        - {x: -123, y: -75}
+        - {x: 35, y: -188}
+        - {x: 71, y: -188}
+        - {x: 112, y: -106}
+        - {x: 112, y: 136}
+      - - {x: -15, y: 142}
+        - {x: -22, y: 132}
+        - {x: -22, y: 106}
+        - {x: -10, y: 82}
+        - {x: 6, y: 82}
+        - {x: 16, y: 93}
+        - {x: 16, y: 131}
+        - {x: 6, y: 142}
+      - - {x: 58, y: 121}
+        - {x: 45, y: 121}
+        - {x: 39, y: 118}
+        - {x: 39, y: 103}
+        - {x: 46, y: 100}
+        - {x: 60, y: 100}
+        - {x: 61, y: 103}
+        - {x: 61, y: 117}
+      - - {x: 21, y: 142}
+        - {x: 15, y: 136}
+        - {x: 15, y: 129}
+        - {x: 17, y: 123}
+        - {x: 23, y: 118}
+        - {x: 30, y: 118}
+        - {x: 36, y: 120}
+        - {x: 37, y: 124}
+        - {x: 37, y: 136}
+        - {x: 33, y: 142}
+    - name: fire_strip24_4
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 96}
+        - {x: 71, y: 102}
+        - {x: -29, y: 102}
+        - {x: -121, y: 84}
+        - {x: -145, y: 48}
+        - {x: -145, y: -30}
+        - {x: -122, y: -73}
+        - {x: -5, y: -126}
+        - {x: 28, y: -183}
+        - {x: 62, y: -183}
+        - {x: 95, y: -135}
+        - {x: 96, y: -120}
+        - {x: 96, y: 2}
+      - - {x: -152, y: -32}
+        - {x: -149, y: -31}
+        - {x: -149, y: -28}
+        - {x: -152, y: -27}
+        - {x: -154, y: -29}
+      - - {x: -8, y: 116}
+        - {x: -14, y: 108}
+        - {x: -14, y: 93}
+        - {x: -13, y: 90}
+        - {x: -6, y: 87}
+        - {x: 7, y: 87}
+        - {x: 16, y: 96}
+        - {x: 16, y: 111}
+        - {x: 13, y: 116}
+      - - {x: 64, y: 102}
+        - {x: 68, y: 91}
+        - {x: 75, y: 87}
+        - {x: 84, y: 87}
+        - {x: 91, y: 91}
+        - {x: 91, y: 117}
+        - {x: 64, y: 117}
+      - - {x: 27, y: 115}
+        - {x: 27, y: 107}
+        - {x: 31, y: 104}
+        - {x: 35, y: 104}
+        - {x: 39, y: 106}
+        - {x: 39, y: 111}
+        - {x: 38, y: 115}
+      - - {x: 52, y: 117}
+        - {x: 48, y: 116}
+        - {x: 48, y: 108}
+        - {x: 51, y: 106}
+        - {x: 57, y: 106}
+        - {x: 59, y: 109}
+        - {x: 59, y: 114}
+        - {x: 58, y: 117}
+      - - {x: 21, y: 128}
+        - {x: 17, y: 128}
+        - {x: 14, y: 126}
+        - {x: 13, y: 121}
+        - {x: 16, y: 117}
+        - {x: 22, y: 117}
+        - {x: 25, y: 120}
+        - {x: 25, y: 125}
+      - - {x: 44, y: 133}
+        - {x: 40, y: 130}
+        - {x: 40, y: 127}
+        - {x: 41, y: 122}
+        - {x: 49, y: 122}
+        - {x: 51, y: 124}
+        - {x: 51, y: 131}
+        - {x: 50, y: 133}
+    - name: fire_strip24_5
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 103}
+        - {x: 47, y: 120}
+        - {x: 43, y: 115}
+        - {x: 30, y: 123}
+        - {x: -40, y: 123}
+        - {x: -138, y: 93}
+        - {x: -145, y: 55}
+        - {x: -145, y: -49}
+        - {x: -121, y: -73}
+        - {x: -12, y: -126}
+        - {x: 36, y: -177}
+        - {x: 67, y: -177}
+        - {x: 82, y: -148}
+        - {x: 96, y: -113}
+        - {x: 97, y: -109}
+    - name: fire_strip24_6
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 111}
+        - {x: 7, y: 100}
+        - {x: 7, y: 86}
+        - {x: 10, y: 59}
+        - {x: 9, y: 72}
+        - {x: 4, y: 96}
+        - {x: 22, y: 149}
+        - {x: -18, y: 149}
+        - {x: -24, y: 144}
+        - {x: -115, y: 66}
+        - {x: -145, y: 58}
+        - {x: -145, y: -81}
+        - {x: -60, y: -171}
+        - {x: 68, y: -171}
+        - {x: 97, y: -114}
+        - {x: 97, y: 39}
+        - {x: 61, y: 135}
+    - name: fire_strip24_7
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 132}
+        - {x: 15, y: 124}
+        - {x: 1, y: 94}
+        - {x: -25, y: 156}
+        - {x: -33, y: 162}
+        - {x: -52, y: 162}
+        - {x: -108, y: 117}
+        - {x: -145, y: 14}
+        - {x: -145, y: -45}
+        - {x: -86, y: -76}
+        - {x: -23, y: -79}
+        - {x: 28, y: -166}
+        - {x: 65, y: -166}
+        - {x: 70, y: -162}
+        - {x: 98, y: -106}
+        - {x: 98, y: 49}
+    - name: fire_strip24_8
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 125}
+        - {x: 3, y: 103}
+        - {x: 9, y: 74}
+        - {x: 9, y: 67}
+        - {x: 10, y: 64}
+        - {x: 10, y: 53}
+        - {x: 9, y: 74}
+        - {x: -30, y: 78}
+        - {x: -57, y: 79}
+        - {x: -62, y: 116}
+        - {x: -65, y: 125}
+        - {x: -79, y: 125}
+        - {x: -106, y: 117}
+        - {x: -145, y: 69}
+        - {x: -145, y: -42}
+        - {x: -95, y: -104}
+        - {x: 38, y: -160}
+        - {x: 84, y: -160}
+        - {x: 98, y: -145}
+        - {x: 98, y: 42}
+        - {x: 83, y: 125}
+    - name: fire_strip24_9
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 130}
+        - {x: 15, y: 130}
+        - {x: 1, y: 110}
+        - {x: -93, y: 91}
+        - {x: -141, y: 55}
+        - {x: -145, y: 41}
+        - {x: -145, y: -27}
+        - {x: -122, y: -62}
+        - {x: -73, y: -69}
+        - {x: 4, y: -62}
+        - {x: 1, y: -129}
+        - {x: 40, y: -154}
+        - {x: 76, y: -154}
+        - {x: 99, y: -100}
+        - {x: 99, y: 16}
+        - {x: 71, y: 121}
+    - name: fire_strip24_10
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 136}
+        - {x: 4, y: 121}
+        - {x: -29, y: 80}
+        - {x: -91, y: 76}
+        - {x: -114, y: 73}
+        - {x: -145, y: 39}
+        - {x: -145, y: -58}
+        - {x: -21, y: -84}
+        - {x: 38, y: -148}
+        - {x: 73, y: -148}
+        - {x: 99, y: -107}
+        - {x: 99, y: 41}
+        - {x: 72, y: 136}
+    - name: fire_strip24_11
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 123}
+        - {x: 24, y: 123}
+        - {x: 14, y: 122}
+        - {x: -4, y: 109}
+        - {x: -119, y: 69}
+        - {x: -145, y: 23}
+        - {x: -145, y: -26}
+        - {x: -144, y: -34}
+        - {x: -118, y: -64}
+        - {x: -16, y: -78}
+        - {x: 22, y: -160}
+        - {x: 28, y: -162}
+        - {x: 78, y: -162}
+        - {x: 95, y: -125}
+        - {x: 95, y: 23}
+        - {x: 65, y: 117}
+    - name: fire_strip24_12
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 54}
+        - {x: 70, y: 123}
+        - {x: 61, y: 125}
+        - {x: -12, y: 125}
+        - {x: -35, y: 96}
+        - {x: -115, y: 73}
+        - {x: -145, y: 29}
+        - {x: -145, y: -33}
+        - {x: -141, y: -49}
+        - {x: -12, y: -120}
+        - {x: 26, y: -159}
+        - {x: 86, y: -159}
+        - {x: 95, y: -119}
+        - {x: 95, y: -20}
+        - {x: 90, y: 1}
+    - name: fire_strip24_13
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 127}
+        - {x: -117, y: 76}
+        - {x: -145, y: 37}
+        - {x: -145, y: -34}
+        - {x: -130, y: -73}
+        - {x: 1, y: -71}
+        - {x: 6, y: -103}
+        - {x: 15, y: -116}
+        - {x: 24, y: -127}
+        - {x: 45, y: -154}
+        - {x: 46, y: -156}
+        - {x: 96, y: -156}
+        - {x: 96, y: 24}
+        - {x: 54, y: 127}
+    - name: fire_strip24_14
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 129}
+        - {x: -17, y: 129}
+        - {x: -35, y: 88}
+        - {x: -114, y: 71}
+        - {x: -145, y: 26}
+        - {x: -145, y: -22}
+        - {x: -142, y: -38}
+        - {x: -117, y: -63}
+        - {x: -21, y: -75}
+        - {x: 27, y: -153}
+        - {x: 89, y: -153}
+        - {x: 98, y: -122}
+        - {x: 98, y: 7}
+        - {x: 62, y: 89}
+    - name: fire_strip24_15
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 126}
+        - {x: 36, y: 131}
+        - {x: -84, y: 131}
+        - {x: -106, y: 101}
+        - {x: -145, y: 15}
+        - {x: -145, y: -26}
+        - {x: -134, y: -43}
+        - {x: -116, y: -60}
+        - {x: -2, y: -89}
+        - {x: 23, y: -135}
+        - {x: 51, y: -150}
+        - {x: 77, y: -150}
+        - {x: 89, y: -147}
+        - {x: 100, y: -115}
+        - {x: 100, y: -22}
+        - {x: 99, y: -12}
+    - name: fire_strip24_16
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: 5}
+        - {x: 80, y: 18}
+        - {x: 65, y: 35}
+        - {x: 33, y: 140}
+        - {x: -16, y: 149}
+        - {x: -31, y: 157}
+        - {x: -68, y: 157}
+        - {x: -89, y: 130}
+        - {x: -145, y: 17}
+        - {x: -145, y: -25}
+        - {x: -117, y: -64}
+        - {x: -19, y: -77}
+        - {x: 53, y: -146}
+        - {x: 87, y: -146}
+        - {x: 102, y: -113}
+        - {x: 102, y: -48}
+        - {x: 92, y: -9}
+    - name: fire_strip24_17
+      rect:
+        serializedVersion: 2
+        x: 5304
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 55}
+        - {x: 43, y: 107}
+        - {x: 4, y: 168}
+        - {x: -26, y: 168}
+        - {x: -30, y: 167}
+        - {x: -72, y: 125}
+        - {x: -145, y: 25}
+        - {x: -145, y: -31}
+        - {x: -122, y: -64}
+        - {x: -15, y: -72}
+        - {x: 8, y: -101}
+        - {x: 56, y: -142}
+        - {x: 81, y: -142}
+        - {x: 91, y: -137}
+        - {x: 105, y: -102}
+        - {x: 105, y: -52}
+        - {x: 88, y: 21}
+    - name: fire_strip24_18
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 158}
+        - {x: -19, y: 158}
+        - {x: -126, y: 74}
+        - {x: -145, y: 15}
+        - {x: -145, y: -30}
+        - {x: -122, y: -70}
+        - {x: 9, y: -71}
+        - {x: 15, y: -91}
+        - {x: 18, y: -96}
+        - {x: 35, y: -117}
+        - {x: 59, y: -139}
+        - {x: 90, y: -139}
+        - {x: 103, y: -113}
+        - {x: 103, y: -7}
+        - {x: 101, y: 1}
+      - - {x: -153, y: 15}
+        - {x: -150, y: 16}
+        - {x: -150, y: 19}
+        - {x: -153, y: 20}
+        - {x: -155, y: 18}
+    - name: fire_strip24_19
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 143}
+        - {x: 29, y: 148}
+        - {x: -9, y: 148}
+        - {x: -52, y: 136}
+        - {x: -113, y: 70}
+        - {x: -145, y: 14}
+        - {x: -145, y: -37}
+        - {x: -86, y: -78}
+        - {x: -15, y: -68}
+        - {x: 55, y: -136}
+        - {x: 86, y: -136}
+        - {x: 100, y: -113}
+        - {x: 100, y: 14}
+        - {x: 69, y: 54}
+    - name: fire_strip24_20
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: -57}
+        - {x: 98, y: 20}
+        - {x: 72, y: 51}
+        - {x: 59, y: 144}
+        - {x: 46, y: 149}
+        - {x: -11, y: 149}
+        - {x: -27, y: 144}
+        - {x: -118, y: 68}
+        - {x: -145, y: 27}
+        - {x: -145, y: -44}
+        - {x: -74, y: -74}
+        - {x: -16, y: -68}
+        - {x: 45, y: -134}
+        - {x: 74, y: -134}
+        - {x: 83, y: -130}
+        - {x: 98, y: -86}
+        - {x: 98, y: -66}
+        - {x: 97, y: -62}
+    - name: fire_strip24_21
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 115}
+        - {x: 56, y: 153}
+        - {x: 4, y: 153}
+        - {x: -62, y: 87}
+        - {x: -121, y: 72}
+        - {x: -145, y: 25}
+        - {x: -145, y: -41}
+        - {x: -85, y: -72}
+        - {x: -1, y: -77}
+        - {x: 41, y: -130}
+        - {x: 69, y: -130}
+        - {x: 77, y: -127}
+        - {x: 96, y: -84}
+        - {x: 96, y: 28}
+        - {x: 82, y: 59}
+      - - {x: -136, y: -53}
+        - {x: -133, y: -52}
+        - {x: -133, y: -49}
+        - {x: -136, y: -48}
+        - {x: -138, y: -50}
+    - name: fire_strip24_22
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: -27}
+        - {x: 80, y: -26}
+        - {x: 80, y: -21}
+        - {x: 80, y: -22}
+        - {x: 83, y: -25}
+        - {x: 96, y: -12}
+        - {x: 96, y: 128}
+        - {x: 76, y: 157}
+        - {x: -71, y: 157}
+        - {x: -139, y: 95}
+        - {x: -145, y: 68}
+        - {x: -145, y: -88}
+        - {x: -12, y: -127}
+        - {x: 62, y: -127}
+        - {x: 71, y: -120}
+        - {x: 92, y: -74}
+        - {x: 96, y: -64}
+    - name: fire_strip24_23
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 0
+        width: 312
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: 161}
+        - {x: 17, y: 161}
+        - {x: 8, y: 151}
+        - {x: 7, y: 147}
+        - {x: 8, y: 135}
+        - {x: -93, y: 90}
+        - {x: -145, y: 37}
+        - {x: -145, y: -35}
+        - {x: -143, y: -40}
+        - {x: -85, y: -70}
+        - {x: 31, y: -122}
+        - {x: 37, y: -124}
+        - {x: 61, y: -124}
+        - {x: 95, y: -73}
+        - {x: 96, y: -69}
+        - {x: 96, y: 121}
+      - - {x: 81, y: -25}
+        - {x: 84, y: -24}
+        - {x: 84, y: -21}
+        - {x: 81, y: -20}
+        - {x: 79, y: -22}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
